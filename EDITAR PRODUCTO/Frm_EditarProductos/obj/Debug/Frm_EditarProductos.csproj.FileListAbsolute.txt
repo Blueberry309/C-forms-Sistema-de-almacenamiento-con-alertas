@@ -1,0 +1,44 @@
+C:\Users\Mathia\Desktop\EDITAR PRODUCTO\Frm_EditarProductos\bin\Debug\Frm_EditarProductos.dll.config
+C:\Users\Mathia\Desktop\EDITAR PRODUCTO\Frm_EditarProductos\bin\Debug\Frm_EditarProductos.dll
+C:\Users\Mathia\Desktop\EDITAR PRODUCTO\Frm_EditarProductos\bin\Debug\Frm_EditarProductos.pdb
+C:\Users\Mathia\Desktop\EDITAR PRODUCTO\Frm_EditarProductos\bin\Debug\Proyecto_Final.dll
+C:\Users\Mathia\Desktop\EDITAR PRODUCTO\Frm_EditarProductos\bin\Debug\Proyecto_Final.pdb
+C:\Users\Mathia\Desktop\EDITAR PRODUCTO\Frm_EditarProductos\bin\Debug\Proyecto_Final.dll.config
+C:\Users\Mathia\Desktop\EDITAR PRODUCTO\Frm_EditarProductos\bin\Debug\Proyecto_Final.exe.config
+C:\Users\Mathia\Desktop\EDITAR PRODUCTO\Frm_EditarProductos\obj\Debug\Frm_EditarProductos.csproj.AssemblyReference.cache
+C:\Users\Mathia\Desktop\EDITAR PRODUCTO\Frm_EditarProductos\obj\Debug\Frm_EditarProductos.FrmEditarProducto.resources
+C:\Users\Mathia\Desktop\EDITAR PRODUCTO\Frm_EditarProductos\obj\Debug\Frm_EditarProductos.Properties.Resources.resources
+C:\Users\Mathia\Desktop\EDITAR PRODUCTO\Frm_EditarProductos\obj\Debug\Frm_EditarProductos.csproj.GenerateResource.cache
+C:\Users\Mathia\Desktop\EDITAR PRODUCTO\Frm_EditarProductos\obj\Debug\Frm_EditarProductos.csproj.CoreCompileInputs.cache
+C:\Users\Mathia\Desktop\EDITAR PRODUCTO\Frm_EditarProductos\obj\Debug\Frm_Edit.34C06648.Up2Date
+C:\Users\Mathia\Desktop\EDITAR PRODUCTO\Frm_EditarProductos\obj\Debug\Frm_EditarProductos.dll
+C:\Users\Mathia\Desktop\EDITAR PRODUCTO\Frm_EditarProductos\obj\Debug\Frm_EditarProductos.pdb
+C:\Users\Mathia\Desktop\EL TRABAJO FINAL TODO JUNTO\EDITAR PRODUCTO\Frm_EditarProductos\bin\Debug\Frm_EditarProductos.dll.config
+C:\Users\Mathia\Desktop\EL TRABAJO FINAL TODO JUNTO\EDITAR PRODUCTO\Frm_EditarProductos\bin\Debug\Frm_EditarProductos.dll
+C:\Users\Mathia\Desktop\EL TRABAJO FINAL TODO JUNTO\EDITAR PRODUCTO\Frm_EditarProductos\bin\Debug\Frm_EditarProductos.pdb
+C:\Users\Mathia\Desktop\EL TRABAJO FINAL TODO JUNTO\EDITAR PRODUCTO\Frm_EditarProductos\bin\Debug\Proyecto_Final.dll
+C:\Users\Mathia\Desktop\EL TRABAJO FINAL TODO JUNTO\EDITAR PRODUCTO\Frm_EditarProductos\bin\Debug\Proyecto_Final.pdb
+C:\Users\Mathia\Desktop\EL TRABAJO FINAL TODO JUNTO\EDITAR PRODUCTO\Frm_EditarProductos\bin\Debug\Proyecto_Final.dll.config
+C:\Users\Mathia\Desktop\EL TRABAJO FINAL TODO JUNTO\EDITAR PRODUCTO\Frm_EditarProductos\bin\Debug\Proyecto_Final.exe.config
+C:\Users\Mathia\Desktop\EL TRABAJO FINAL TODO JUNTO\EDITAR PRODUCTO\Frm_EditarProductos\obj\Debug\Frm_EditarProductos.csproj.AssemblyReference.cache
+C:\Users\Mathia\Desktop\EL TRABAJO FINAL TODO JUNTO\EDITAR PRODUCTO\Frm_EditarProductos\obj\Debug\Frm_EditarProductos.FrmEditarProducto.resources
+C:\Users\Mathia\Desktop\EL TRABAJO FINAL TODO JUNTO\EDITAR PRODUCTO\Frm_EditarProductos\obj\Debug\Frm_EditarProductos.Properties.Resources.resources
+C:\Users\Mathia\Desktop\EL TRABAJO FINAL TODO JUNTO\EDITAR PRODUCTO\Frm_EditarProductos\obj\Debug\Frm_EditarProductos.csproj.GenerateResource.cache
+C:\Users\Mathia\Desktop\EL TRABAJO FINAL TODO JUNTO\EDITAR PRODUCTO\Frm_EditarProductos\obj\Debug\Frm_EditarProductos.csproj.CoreCompileInputs.cache
+C:\Users\Mathia\Desktop\EL TRABAJO FINAL TODO JUNTO\EDITAR PRODUCTO\Frm_EditarProductos\obj\Debug\Frm_Edit.34C06648.Up2Date
+C:\Users\Mathia\Desktop\EL TRABAJO FINAL TODO JUNTO\EDITAR PRODUCTO\Frm_EditarProductos\obj\Debug\Frm_EditarProductos.dll
+C:\Users\Mathia\Desktop\EL TRABAJO FINAL TODO JUNTO\EDITAR PRODUCTO\Frm_EditarProductos\obj\Debug\Frm_EditarProductos.pdb
+C:\Users\lvasq\OneDrive - Universidad Privada del Norte\Fundamentos\EL TRABAJO FINAL TODO JUNTO\EL TRABAJO FINAL TODO JUNTO\EL TRABAJO FINAL TODO JUNTO\EDITAR PRODUCTO\Frm_EditarProductos\bin\Debug\Frm_EditarProductos.dll.config
+C:\Users\lvasq\OneDrive - Universidad Privada del Norte\Fundamentos\EL TRABAJO FINAL TODO JUNTO\EL TRABAJO FINAL TODO JUNTO\EL TRABAJO FINAL TODO JUNTO\EDITAR PRODUCTO\Frm_EditarProductos\bin\Debug\Frm_EditarProductos.dll
+C:\Users\lvasq\OneDrive - Universidad Privada del Norte\Fundamentos\EL TRABAJO FINAL TODO JUNTO\EL TRABAJO FINAL TODO JUNTO\EL TRABAJO FINAL TODO JUNTO\EDITAR PRODUCTO\Frm_EditarProductos\bin\Debug\Frm_EditarProductos.pdb
+C:\Users\lvasq\OneDrive - Universidad Privada del Norte\Fundamentos\EL TRABAJO FINAL TODO JUNTO\EL TRABAJO FINAL TODO JUNTO\EL TRABAJO FINAL TODO JUNTO\EDITAR PRODUCTO\Frm_EditarProductos\bin\Debug\Proyecto_Final.pdb
+C:\Users\lvasq\OneDrive - Universidad Privada del Norte\Fundamentos\EL TRABAJO FINAL TODO JUNTO\EL TRABAJO FINAL TODO JUNTO\EL TRABAJO FINAL TODO JUNTO\EDITAR PRODUCTO\Frm_EditarProductos\bin\Debug\Proyecto_Final.dll.config
+C:\Users\lvasq\OneDrive - Universidad Privada del Norte\Fundamentos\EL TRABAJO FINAL TODO JUNTO\EL TRABAJO FINAL TODO JUNTO\EL TRABAJO FINAL TODO JUNTO\EDITAR PRODUCTO\Frm_EditarProductos\bin\Debug\Proyecto_Final.exe.config
+C:\Users\lvasq\OneDrive - Universidad Privada del Norte\Fundamentos\EL TRABAJO FINAL TODO JUNTO\EL TRABAJO FINAL TODO JUNTO\EL TRABAJO FINAL TODO JUNTO\EDITAR PRODUCTO\Frm_EditarProductos\obj\Debug\Frm_EditarProductos.csproj.AssemblyReference.cache
+C:\Users\lvasq\OneDrive - Universidad Privada del Norte\Fundamentos\EL TRABAJO FINAL TODO JUNTO\EL TRABAJO FINAL TODO JUNTO\EL TRABAJO FINAL TODO JUNTO\EDITAR PRODUCTO\Frm_EditarProductos\obj\Debug\Frm_EditarProductos.FrmEditarProducto.resources
+C:\Users\lvasq\OneDrive - Universidad Privada del Norte\Fundamentos\EL TRABAJO FINAL TODO JUNTO\EL TRABAJO FINAL TODO JUNTO\EL TRABAJO FINAL TODO JUNTO\EDITAR PRODUCTO\Frm_EditarProductos\obj\Debug\Frm_EditarProductos.Properties.Resources.resources
+C:\Users\lvasq\OneDrive - Universidad Privada del Norte\Fundamentos\EL TRABAJO FINAL TODO JUNTO\EL TRABAJO FINAL TODO JUNTO\EL TRABAJO FINAL TODO JUNTO\EDITAR PRODUCTO\Frm_EditarProductos\obj\Debug\Frm_EditarProductos.csproj.GenerateResource.cache
+C:\Users\lvasq\OneDrive - Universidad Privada del Norte\Fundamentos\EL TRABAJO FINAL TODO JUNTO\EL TRABAJO FINAL TODO JUNTO\EL TRABAJO FINAL TODO JUNTO\EDITAR PRODUCTO\Frm_EditarProductos\obj\Debug\Frm_EditarProductos.csproj.CoreCompileInputs.cache
+C:\Users\lvasq\OneDrive - Universidad Privada del Norte\Fundamentos\EL TRABAJO FINAL TODO JUNTO\EL TRABAJO FINAL TODO JUNTO\EL TRABAJO FINAL TODO JUNTO\EDITAR PRODUCTO\Frm_EditarProductos\obj\Debug\Frm_Edit.34C06648.Up2Date
+C:\Users\lvasq\OneDrive - Universidad Privada del Norte\Fundamentos\EL TRABAJO FINAL TODO JUNTO\EL TRABAJO FINAL TODO JUNTO\EL TRABAJO FINAL TODO JUNTO\EDITAR PRODUCTO\Frm_EditarProductos\obj\Debug\Frm_EditarProductos.dll
+C:\Users\lvasq\OneDrive - Universidad Privada del Norte\Fundamentos\EL TRABAJO FINAL TODO JUNTO\EL TRABAJO FINAL TODO JUNTO\EL TRABAJO FINAL TODO JUNTO\EDITAR PRODUCTO\Frm_EditarProductos\obj\Debug\Frm_EditarProductos.pdb

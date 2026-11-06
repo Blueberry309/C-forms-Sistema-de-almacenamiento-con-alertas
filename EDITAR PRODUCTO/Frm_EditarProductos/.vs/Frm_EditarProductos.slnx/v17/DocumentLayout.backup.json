@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\Downloads\\EL TRABAJO FINAL TODO JUNTO\\EL TRABAJO FINAL TODO JUNTO\\EDITAR PRODUCTO\\Frm_EditarProductos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A67E87D9-464A-4CB6-8AA4-A56DCEDE23B6}|Frm_EditarProductos.csproj|C:\\Users\\USER\\Downloads\\EL TRABAJO FINAL TODO JUNTO\\EL TRABAJO FINAL TODO JUNTO\\EDITAR PRODUCTO\\Frm_EditarProductos\\frmeditarproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A67E87D9-464A-4CB6-8AA4-A56DCEDE23B6}|Frm_EditarProductos.csproj|solutionrelative:frmeditarproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A67E87D9-464A-4CB6-8AA4-A56DCEDE23B6}|Frm_EditarProductos.csproj|c:\\users\\user\\downloads\\el trabajo final todo junto\\el trabajo final todo junto\\editar producto\\frm_editarproductos\\frmeditarproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A67E87D9-464A-4CB6-8AA4-A56DCEDE23B6}|Frm_EditarProductos.csproj|solutionrelative:frmeditarproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A67E87D9-464A-4CB6-8AA4-A56DCEDE23B6}|Frm_EditarProductos.csproj|C:\\Users\\USER\\Downloads\\EL TRABAJO FINAL TODO JUNTO\\EL TRABAJO FINAL TODO JUNTO\\EDITAR PRODUCTO\\Frm_EditarProductos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A67E87D9-464A-4CB6-8AA4-A56DCEDE23B6}|Frm_EditarProductos.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmEditarProducto.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Downloads\\EL TRABAJO FINAL TODO JUNTO\\EL TRABAJO FINAL TODO JUNTO\\EDITAR PRODUCTO\\Frm_EditarProductos\\FrmEditarProducto.cs",
+              "RelativeDocumentMoniker": "FrmEditarProducto.cs",
+              "ToolTip": "C:\\Users\\USER\\Downloads\\EL TRABAJO FINAL TODO JUNTO\\EL TRABAJO FINAL TODO JUNTO\\EDITAR PRODUCTO\\Frm_EditarProductos\\FrmEditarProducto.cs",
+              "RelativeToolTip": "FrmEditarProducto.cs",
+              "ViewState": "AgIAANYAAAAAAAAAAAAMwOMAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-12T22:50:58.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Downloads\\EL TRABAJO FINAL TODO JUNTO\\EL TRABAJO FINAL TODO JUNTO\\EDITAR PRODUCTO\\Frm_EditarProductos\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\USER\\Downloads\\EL TRABAJO FINAL TODO JUNTO\\EL TRABAJO FINAL TODO JUNTO\\EDITAR PRODUCTO\\Frm_EditarProductos\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-12T22:50:54.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmEditarProducto.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\USER\\Downloads\\EL TRABAJO FINAL TODO JUNTO\\EL TRABAJO FINAL TODO JUNTO\\EDITAR PRODUCTO\\Frm_EditarProductos\\FrmEditarProducto.cs",
+              "RelativeDocumentMoniker": "FrmEditarProducto.cs",
+              "ToolTip": "C:\\Users\\USER\\Downloads\\EL TRABAJO FINAL TODO JUNTO\\EL TRABAJO FINAL TODO JUNTO\\EDITAR PRODUCTO\\Frm_EditarProductos\\FrmEditarProducto.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FrmEditarProducto.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-12T22:50:53.83Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

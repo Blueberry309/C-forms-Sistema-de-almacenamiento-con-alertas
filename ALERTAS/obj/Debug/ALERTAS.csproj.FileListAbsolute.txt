@@ -1,0 +1,37 @@
+C:\Users\Mathia\Desktop\ALERTAS\bin\Debug\ALERTAS.pdb
+C:\Users\Mathia\Desktop\ALERTAS\obj\Debug\ALERTAS.csproj.AssemblyReference.cache
+C:\Users\Mathia\Desktop\ALERTAS\obj\Debug\ALERTAS.FrmAlertas.resources
+C:\Users\Mathia\Desktop\ALERTAS\obj\Debug\ALERTAS.Properties.Resources.resources
+C:\Users\Mathia\Desktop\ALERTAS\obj\Debug\ALERTAS.csproj.GenerateResource.cache
+C:\Users\Mathia\Desktop\ALERTAS\obj\Debug\ALERTAS.csproj.CoreCompileInputs.cache
+C:\Users\Mathia\Desktop\ALERTAS\obj\Debug\ALERTAS.pdb
+C:\Users\Mathia\Desktop\ALERTAS\bin\Debug\Proyecto_Final.dll
+C:\Users\Mathia\Desktop\ALERTAS\bin\Debug\Proyecto_Final.pdb
+C:\Users\Mathia\Desktop\ALERTAS\bin\Debug\Proyecto_Final.dll.config
+C:\Users\Mathia\Desktop\ALERTAS\bin\Debug\Proyecto_Final.exe.config
+C:\Users\Mathia\Desktop\ALERTAS\obj\Debug\ALERTAS.csproj.Up2Date
+C:\Users\Mathia\Desktop\ALERTAS\bin\Debug\ALERTAS.dll.config
+C:\Users\Mathia\Desktop\ALERTAS\bin\Debug\ALERTAS.dll
+C:\Users\Mathia\Desktop\ALERTAS\obj\Debug\ALERTAS.dll
+C:\Users\lvasq\OneDrive - Universidad Privada del Norte\Fundamentos\EL TRABAJO FINAL TODO JUNTO\EL TRABAJO FINAL TODO JUNTO\EL TRABAJO FINAL TODO JUNTO\ALERTAS\bin\Debug\ALERTAS.dll.config
+C:\Users\lvasq\OneDrive - Universidad Privada del Norte\Fundamentos\EL TRABAJO FINAL TODO JUNTO\EL TRABAJO FINAL TODO JUNTO\EL TRABAJO FINAL TODO JUNTO\ALERTAS\bin\Debug\ALERTAS.dll
+C:\Users\lvasq\OneDrive - Universidad Privada del Norte\Fundamentos\EL TRABAJO FINAL TODO JUNTO\EL TRABAJO FINAL TODO JUNTO\EL TRABAJO FINAL TODO JUNTO\ALERTAS\bin\Debug\ALERTAS.pdb
+C:\Users\lvasq\OneDrive - Universidad Privada del Norte\Fundamentos\EL TRABAJO FINAL TODO JUNTO\EL TRABAJO FINAL TODO JUNTO\EL TRABAJO FINAL TODO JUNTO\ALERTAS\obj\Debug\ALERTAS.csproj.AssemblyReference.cache
+C:\Users\lvasq\OneDrive - Universidad Privada del Norte\Fundamentos\EL TRABAJO FINAL TODO JUNTO\EL TRABAJO FINAL TODO JUNTO\EL TRABAJO FINAL TODO JUNTO\ALERTAS\obj\Debug\ALERTAS.FrmAlertas.resources
+C:\Users\lvasq\OneDrive - Universidad Privada del Norte\Fundamentos\EL TRABAJO FINAL TODO JUNTO\EL TRABAJO FINAL TODO JUNTO\EL TRABAJO FINAL TODO JUNTO\ALERTAS\obj\Debug\ALERTAS.Properties.Resources.resources
+C:\Users\lvasq\OneDrive - Universidad Privada del Norte\Fundamentos\EL TRABAJO FINAL TODO JUNTO\EL TRABAJO FINAL TODO JUNTO\EL TRABAJO FINAL TODO JUNTO\ALERTAS\obj\Debug\ALERTAS.csproj.GenerateResource.cache
+C:\Users\lvasq\OneDrive - Universidad Privada del Norte\Fundamentos\EL TRABAJO FINAL TODO JUNTO\EL TRABAJO FINAL TODO JUNTO\EL TRABAJO FINAL TODO JUNTO\ALERTAS\obj\Debug\ALERTAS.csproj.CoreCompileInputs.cache
+C:\Users\lvasq\OneDrive - Universidad Privada del Norte\Fundamentos\EL TRABAJO FINAL TODO JUNTO\EL TRABAJO FINAL TODO JUNTO\EL TRABAJO FINAL TODO JUNTO\ALERTAS\obj\Debug\ALERTAS.csproj.Up2Date
+C:\Users\lvasq\OneDrive - Universidad Privada del Norte\Fundamentos\EL TRABAJO FINAL TODO JUNTO\EL TRABAJO FINAL TODO JUNTO\EL TRABAJO FINAL TODO JUNTO\ALERTAS\obj\Debug\ALERTAS.dll
+C:\Users\lvasq\OneDrive - Universidad Privada del Norte\Fundamentos\EL TRABAJO FINAL TODO JUNTO\EL TRABAJO FINAL TODO JUNTO\EL TRABAJO FINAL TODO JUNTO\ALERTAS\obj\Debug\ALERTAS.pdb
+C:\Users\USER\Desktop\EL TRABAJO FINAL TODO JUNTO\EL TRABAJO FINAL TODO JUNTO\ALERTAS\bin\Debug\ALERTAS.dll.config
+C:\Users\USER\Desktop\EL TRABAJO FINAL TODO JUNTO\EL TRABAJO FINAL TODO JUNTO\ALERTAS\bin\Debug\ALERTAS.dll
+C:\Users\USER\Desktop\EL TRABAJO FINAL TODO JUNTO\EL TRABAJO FINAL TODO JUNTO\ALERTAS\bin\Debug\ALERTAS.pdb
+C:\Users\USER\Desktop\EL TRABAJO FINAL TODO JUNTO\EL TRABAJO FINAL TODO JUNTO\ALERTAS\obj\Debug\ALERTAS.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\EL TRABAJO FINAL TODO JUNTO\EL TRABAJO FINAL TODO JUNTO\ALERTAS\obj\Debug\ALERTAS.FrmAlertas.resources
+C:\Users\USER\Desktop\EL TRABAJO FINAL TODO JUNTO\EL TRABAJO FINAL TODO JUNTO\ALERTAS\obj\Debug\ALERTAS.Properties.Resources.resources
+C:\Users\USER\Desktop\EL TRABAJO FINAL TODO JUNTO\EL TRABAJO FINAL TODO JUNTO\ALERTAS\obj\Debug\ALERTAS.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\EL TRABAJO FINAL TODO JUNTO\EL TRABAJO FINAL TODO JUNTO\ALERTAS\obj\Debug\ALERTAS.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\EL TRABAJO FINAL TODO JUNTO\EL TRABAJO FINAL TODO JUNTO\ALERTAS\obj\Debug\ALERTAS.csproj.Up2Date
+C:\Users\USER\Desktop\EL TRABAJO FINAL TODO JUNTO\EL TRABAJO FINAL TODO JUNTO\ALERTAS\obj\Debug\ALERTAS.dll
+C:\Users\USER\Desktop\EL TRABAJO FINAL TODO JUNTO\EL TRABAJO FINAL TODO JUNTO\ALERTAS\obj\Debug\ALERTAS.pdb

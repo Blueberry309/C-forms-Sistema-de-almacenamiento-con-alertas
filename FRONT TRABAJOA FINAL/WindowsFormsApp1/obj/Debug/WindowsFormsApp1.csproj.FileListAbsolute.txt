@@ -1,0 +1,135 @@
+C:\Users\Mathia\Desktop\FRONT TRABAJOA FINAL\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Mathia\Desktop\FRONT TRABAJOA FINAL\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Mathia\Desktop\FRONT TRABAJOA FINAL\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Mathia\Desktop\FRONT TRABAJOA FINAL\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Mathia\Desktop\FRONT TRABAJOA FINAL\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Mathia\Desktop\FRONT TRABAJOA FINAL\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Mathia\Desktop\FRONT TRABAJOA FINAL\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Mathia\Desktop\FRONT TRABAJOA FINAL\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Mathia\Desktop\FRONT TRABAJOA FINAL\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Mathia\Desktop\FRONT TRABAJOA FINAL\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\lvasq\OneDrive - Universidad Privada del Norte\Fundamentos\FRONT TRABAJOA FINAL\FRONT TRABAJOA FINAL\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\lvasq\OneDrive - Universidad Privada del Norte\Fundamentos\FRONT TRABAJOA FINAL\FRONT TRABAJOA FINAL\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\lvasq\OneDrive - Universidad Privada del Norte\Fundamentos\FRONT TRABAJOA FINAL\FRONT TRABAJOA FINAL\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\lvasq\OneDrive - Universidad Privada del Norte\Fundamentos\FRONT TRABAJOA FINAL\FRONT TRABAJOA FINAL\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\lvasq\OneDrive - Universidad Privada del Norte\Fundamentos\FRONT TRABAJOA FINAL\FRONT TRABAJOA FINAL\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\lvasq\OneDrive - Universidad Privada del Norte\Fundamentos\FRONT TRABAJOA FINAL\FRONT TRABAJOA FINAL\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\lvasq\OneDrive - Universidad Privada del Norte\Fundamentos\FRONT TRABAJOA FINAL\FRONT TRABAJOA FINAL\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\lvasq\OneDrive - Universidad Privada del Norte\Fundamentos\FRONT TRABAJOA FINAL\FRONT TRABAJOA FINAL\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\lvasq\OneDrive - Universidad Privada del Norte\Fundamentos\FRONT TRABAJOA FINAL\FRONT TRABAJOA FINAL\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\lvasq\OneDrive - Universidad Privada del Norte\Fundamentos\FRONT TRABAJOA FINAL\FRONT TRABAJOA FINAL\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\lvasq\OneDrive - Universidad Privada del Norte\Fundamentos\FRONT TRABAJOA FINAL\FRONT TRABAJOA FINAL\WindowsFormsApp1\bin\Debug\Proyecto_Final.dll
+C:\Users\lvasq\OneDrive - Universidad Privada del Norte\Fundamentos\FRONT TRABAJOA FINAL\FRONT TRABAJOA FINAL\WindowsFormsApp1\bin\Debug\Proyecto_Final.pdb
+C:\Users\lvasq\OneDrive - Universidad Privada del Norte\Fundamentos\FRONT TRABAJOA FINAL\FRONT TRABAJOA FINAL\WindowsFormsApp1\bin\Debug\Proyecto_Final.dll.config
+C:\Users\lvasq\OneDrive - Universidad Privada del Norte\Fundamentos\FRONT TRABAJOA FINAL\FRONT TRABAJOA FINAL\WindowsFormsApp1\obj\Debug\WindowsF.A1EEDF9B.Up2Date
+C:\Users\Mathia\Desktop\FRONT TRABAJOA FINAL\WindowsFormsApp1\bin\Debug\ELIMINAR_PRODUCTO.dll
+C:\Users\Mathia\Desktop\FRONT TRABAJOA FINAL\WindowsFormsApp1\bin\Debug\Proyecto_Final.dll
+C:\Users\Mathia\Desktop\FRONT TRABAJOA FINAL\WindowsFormsApp1\bin\Debug\ELIMINAR_PRODUCTO.pdb
+C:\Users\Mathia\Desktop\FRONT TRABAJOA FINAL\WindowsFormsApp1\bin\Debug\ELIMINAR_PRODUCTO.dll.config
+C:\Users\Mathia\Desktop\FRONT TRABAJOA FINAL\WindowsFormsApp1\bin\Debug\Proyecto_Final.pdb
+C:\Users\Mathia\Desktop\FRONT TRABAJOA FINAL\WindowsFormsApp1\bin\Debug\Proyecto_Final.dll.config
+C:\Users\Mathia\Desktop\FRONT TRABAJOA FINAL\WindowsFormsApp1\bin\Debug\Proyecto_Final.exe.config
+C:\Users\Mathia\Desktop\FRONT TRABAJOA FINAL\WindowsFormsApp1\obj\Debug\WindowsF.A1EEDF9B.Up2Date
+C:\Users\Mathia\Desktop\FRONT TRABAJOA FINAL\WindowsFormsApp1\bin\Debug\Frm_EditarProductos.dll
+C:\Users\Mathia\Desktop\FRONT TRABAJOA FINAL\WindowsFormsApp1\bin\Debug\Frm_EditarProductos.pdb
+C:\Users\Mathia\Desktop\FRONT TRABAJOA FINAL\WindowsFormsApp1\bin\Debug\Frm_EditarProductos.dll.config
+C:\Users\Mathia\Desktop\EL TRABAJO FINAL TODO JUNTO\FRONT TRABAJOA FINAL\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Mathia\Desktop\EL TRABAJO FINAL TODO JUNTO\FRONT TRABAJOA FINAL\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Mathia\Desktop\EL TRABAJO FINAL TODO JUNTO\FRONT TRABAJOA FINAL\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Mathia\Desktop\EL TRABAJO FINAL TODO JUNTO\FRONT TRABAJOA FINAL\WindowsFormsApp1\bin\Debug\ELIMINAR_PRODUCTO.dll
+C:\Users\Mathia\Desktop\EL TRABAJO FINAL TODO JUNTO\FRONT TRABAJOA FINAL\WindowsFormsApp1\bin\Debug\Frm_EditarProductos.dll
+C:\Users\Mathia\Desktop\EL TRABAJO FINAL TODO JUNTO\FRONT TRABAJOA FINAL\WindowsFormsApp1\bin\Debug\Proyecto_Final.dll
+C:\Users\Mathia\Desktop\EL TRABAJO FINAL TODO JUNTO\FRONT TRABAJOA FINAL\WindowsFormsApp1\bin\Debug\ELIMINAR_PRODUCTO.pdb
+C:\Users\Mathia\Desktop\EL TRABAJO FINAL TODO JUNTO\FRONT TRABAJOA FINAL\WindowsFormsApp1\bin\Debug\ELIMINAR_PRODUCTO.dll.config
+C:\Users\Mathia\Desktop\EL TRABAJO FINAL TODO JUNTO\FRONT TRABAJOA FINAL\WindowsFormsApp1\bin\Debug\Frm_EditarProductos.pdb
+C:\Users\Mathia\Desktop\EL TRABAJO FINAL TODO JUNTO\FRONT TRABAJOA FINAL\WindowsFormsApp1\bin\Debug\Frm_EditarProductos.dll.config
+C:\Users\Mathia\Desktop\EL TRABAJO FINAL TODO JUNTO\FRONT TRABAJOA FINAL\WindowsFormsApp1\bin\Debug\Proyecto_Final.pdb
+C:\Users\Mathia\Desktop\EL TRABAJO FINAL TODO JUNTO\FRONT TRABAJOA FINAL\WindowsFormsApp1\bin\Debug\Proyecto_Final.dll.config
+C:\Users\Mathia\Desktop\EL TRABAJO FINAL TODO JUNTO\FRONT TRABAJOA FINAL\WindowsFormsApp1\bin\Debug\Proyecto_Final.exe.config
+C:\Users\Mathia\Desktop\EL TRABAJO FINAL TODO JUNTO\FRONT TRABAJOA FINAL\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Mathia\Desktop\EL TRABAJO FINAL TODO JUNTO\FRONT TRABAJOA FINAL\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Mathia\Desktop\EL TRABAJO FINAL TODO JUNTO\FRONT TRABAJOA FINAL\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Mathia\Desktop\EL TRABAJO FINAL TODO JUNTO\FRONT TRABAJOA FINAL\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Mathia\Desktop\EL TRABAJO FINAL TODO JUNTO\FRONT TRABAJOA FINAL\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Mathia\Desktop\EL TRABAJO FINAL TODO JUNTO\FRONT TRABAJOA FINAL\WindowsFormsApp1\obj\Debug\WindowsF.A1EEDF9B.Up2Date
+C:\Users\Mathia\Desktop\EL TRABAJO FINAL TODO JUNTO\FRONT TRABAJOA FINAL\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Mathia\Desktop\EL TRABAJO FINAL TODO JUNTO\FRONT TRABAJOA FINAL\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\USER\Downloads\EL TRABAJO FINAL TODO JUNTO\EL TRABAJO FINAL TODO JUNTO\FRONT TRABAJOA FINAL\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\USER\Downloads\EL TRABAJO FINAL TODO JUNTO\EL TRABAJO FINAL TODO JUNTO\FRONT TRABAJOA FINAL\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\USER\Downloads\EL TRABAJO FINAL TODO JUNTO\EL TRABAJO FINAL TODO JUNTO\FRONT TRABAJOA FINAL\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\USER\Downloads\EL TRABAJO FINAL TODO JUNTO\EL TRABAJO FINAL TODO JUNTO\FRONT TRABAJOA FINAL\WindowsFormsApp1\bin\Debug\ELIMINAR_PRODUCTO.dll
+C:\Users\USER\Downloads\EL TRABAJO FINAL TODO JUNTO\EL TRABAJO FINAL TODO JUNTO\FRONT TRABAJOA FINAL\WindowsFormsApp1\bin\Debug\Frm_EditarProductos.dll
+C:\Users\USER\Downloads\EL TRABAJO FINAL TODO JUNTO\EL TRABAJO FINAL TODO JUNTO\FRONT TRABAJOA FINAL\WindowsFormsApp1\bin\Debug\Proyecto_Final.dll
+C:\Users\USER\Downloads\EL TRABAJO FINAL TODO JUNTO\EL TRABAJO FINAL TODO JUNTO\FRONT TRABAJOA FINAL\WindowsFormsApp1\bin\Debug\VISUALIZAR-BIBLIOTECA.dll
+C:\Users\USER\Downloads\EL TRABAJO FINAL TODO JUNTO\EL TRABAJO FINAL TODO JUNTO\FRONT TRABAJOA FINAL\WindowsFormsApp1\bin\Debug\ELIMINAR_PRODUCTO.pdb
+C:\Users\USER\Downloads\EL TRABAJO FINAL TODO JUNTO\EL TRABAJO FINAL TODO JUNTO\FRONT TRABAJOA FINAL\WindowsFormsApp1\bin\Debug\ELIMINAR_PRODUCTO.dll.config
+C:\Users\USER\Downloads\EL TRABAJO FINAL TODO JUNTO\EL TRABAJO FINAL TODO JUNTO\FRONT TRABAJOA FINAL\WindowsFormsApp1\bin\Debug\Frm_EditarProductos.pdb
+C:\Users\USER\Downloads\EL TRABAJO FINAL TODO JUNTO\EL TRABAJO FINAL TODO JUNTO\FRONT TRABAJOA FINAL\WindowsFormsApp1\bin\Debug\Frm_EditarProductos.dll.config
+C:\Users\USER\Downloads\EL TRABAJO FINAL TODO JUNTO\EL TRABAJO FINAL TODO JUNTO\FRONT TRABAJOA FINAL\WindowsFormsApp1\bin\Debug\Proyecto_Final.pdb
+C:\Users\USER\Downloads\EL TRABAJO FINAL TODO JUNTO\EL TRABAJO FINAL TODO JUNTO\FRONT TRABAJOA FINAL\WindowsFormsApp1\bin\Debug\Proyecto_Final.dll.config
+C:\Users\USER\Downloads\EL TRABAJO FINAL TODO JUNTO\EL TRABAJO FINAL TODO JUNTO\FRONT TRABAJOA FINAL\WindowsFormsApp1\bin\Debug\Proyecto_Final.exe.config
+C:\Users\USER\Downloads\EL TRABAJO FINAL TODO JUNTO\EL TRABAJO FINAL TODO JUNTO\FRONT TRABAJOA FINAL\WindowsFormsApp1\bin\Debug\VISUALIZAR-BIBLIOTECA.pdb
+C:\Users\USER\Downloads\EL TRABAJO FINAL TODO JUNTO\EL TRABAJO FINAL TODO JUNTO\FRONT TRABAJOA FINAL\WindowsFormsApp1\bin\Debug\VISUALIZAR-BIBLIOTECA.dll.config
+C:\Users\USER\Downloads\EL TRABAJO FINAL TODO JUNTO\EL TRABAJO FINAL TODO JUNTO\FRONT TRABAJOA FINAL\WindowsFormsApp1\bin\Debug\VISUALIZAR-BIBLIOTECA.exe.config
+C:\Users\USER\Downloads\EL TRABAJO FINAL TODO JUNTO\EL TRABAJO FINAL TODO JUNTO\FRONT TRABAJOA FINAL\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\USER\Downloads\EL TRABAJO FINAL TODO JUNTO\EL TRABAJO FINAL TODO JUNTO\FRONT TRABAJOA FINAL\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.config
+C:\Users\USER\Downloads\EL TRABAJO FINAL TODO JUNTO\EL TRABAJO FINAL TODO JUNTO\FRONT TRABAJOA FINAL\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\USER\Downloads\EL TRABAJO FINAL TODO JUNTO\EL TRABAJO FINAL TODO JUNTO\FRONT TRABAJOA FINAL\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\USER\Downloads\EL TRABAJO FINAL TODO JUNTO\EL TRABAJO FINAL TODO JUNTO\FRONT TRABAJOA FINAL\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\USER\Downloads\EL TRABAJO FINAL TODO JUNTO\EL TRABAJO FINAL TODO JUNTO\FRONT TRABAJOA FINAL\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\USER\Downloads\EL TRABAJO FINAL TODO JUNTO\EL TRABAJO FINAL TODO JUNTO\FRONT TRABAJOA FINAL\WindowsFormsApp1\obj\Debug\WindowsF.A1EEDF9B.Up2Date
+C:\Users\USER\Downloads\EL TRABAJO FINAL TODO JUNTO\EL TRABAJO FINAL TODO JUNTO\FRONT TRABAJOA FINAL\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\USER\Downloads\EL TRABAJO FINAL TODO JUNTO\EL TRABAJO FINAL TODO JUNTO\FRONT TRABAJOA FINAL\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\lvasq\OneDrive - Universidad Privada del Norte\Fundamentos\EL TRABAJO FINAL TODO JUNTO\EL TRABAJO FINAL TODO JUNTO\EL TRABAJO FINAL TODO JUNTO\FRONT TRABAJOA FINAL\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\lvasq\OneDrive - Universidad Privada del Norte\Fundamentos\EL TRABAJO FINAL TODO JUNTO\EL TRABAJO FINAL TODO JUNTO\EL TRABAJO FINAL TODO JUNTO\FRONT TRABAJOA FINAL\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\lvasq\OneDrive - Universidad Privada del Norte\Fundamentos\EL TRABAJO FINAL TODO JUNTO\EL TRABAJO FINAL TODO JUNTO\EL TRABAJO FINAL TODO JUNTO\FRONT TRABAJOA FINAL\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\lvasq\OneDrive - Universidad Privada del Norte\Fundamentos\EL TRABAJO FINAL TODO JUNTO\EL TRABAJO FINAL TODO JUNTO\EL TRABAJO FINAL TODO JUNTO\FRONT TRABAJOA FINAL\WindowsFormsApp1\bin\Debug\ELIMINAR_PRODUCTO.dll
+C:\Users\lvasq\OneDrive - Universidad Privada del Norte\Fundamentos\EL TRABAJO FINAL TODO JUNTO\EL TRABAJO FINAL TODO JUNTO\EL TRABAJO FINAL TODO JUNTO\FRONT TRABAJOA FINAL\WindowsFormsApp1\bin\Debug\Frm_EditarProductos.dll
+C:\Users\lvasq\OneDrive - Universidad Privada del Norte\Fundamentos\EL TRABAJO FINAL TODO JUNTO\EL TRABAJO FINAL TODO JUNTO\EL TRABAJO FINAL TODO JUNTO\FRONT TRABAJOA FINAL\WindowsFormsApp1\bin\Debug\VISUALIZAR-BIBLIOTECA.dll
+C:\Users\lvasq\OneDrive - Universidad Privada del Norte\Fundamentos\EL TRABAJO FINAL TODO JUNTO\EL TRABAJO FINAL TODO JUNTO\EL TRABAJO FINAL TODO JUNTO\FRONT TRABAJOA FINAL\WindowsFormsApp1\bin\Debug\ELIMINAR_PRODUCTO.pdb
+C:\Users\lvasq\OneDrive - Universidad Privada del Norte\Fundamentos\EL TRABAJO FINAL TODO JUNTO\EL TRABAJO FINAL TODO JUNTO\EL TRABAJO FINAL TODO JUNTO\FRONT TRABAJOA FINAL\WindowsFormsApp1\bin\Debug\ELIMINAR_PRODUCTO.dll.config
+C:\Users\lvasq\OneDrive - Universidad Privada del Norte\Fundamentos\EL TRABAJO FINAL TODO JUNTO\EL TRABAJO FINAL TODO JUNTO\EL TRABAJO FINAL TODO JUNTO\FRONT TRABAJOA FINAL\WindowsFormsApp1\bin\Debug\Frm_EditarProductos.pdb
+C:\Users\lvasq\OneDrive - Universidad Privada del Norte\Fundamentos\EL TRABAJO FINAL TODO JUNTO\EL TRABAJO FINAL TODO JUNTO\EL TRABAJO FINAL TODO JUNTO\FRONT TRABAJOA FINAL\WindowsFormsApp1\bin\Debug\Frm_EditarProductos.dll.config
+C:\Users\lvasq\OneDrive - Universidad Privada del Norte\Fundamentos\EL TRABAJO FINAL TODO JUNTO\EL TRABAJO FINAL TODO JUNTO\EL TRABAJO FINAL TODO JUNTO\FRONT TRABAJOA FINAL\WindowsFormsApp1\bin\Debug\VISUALIZAR-BIBLIOTECA.pdb
+C:\Users\lvasq\OneDrive - Universidad Privada del Norte\Fundamentos\EL TRABAJO FINAL TODO JUNTO\EL TRABAJO FINAL TODO JUNTO\EL TRABAJO FINAL TODO JUNTO\FRONT TRABAJOA FINAL\WindowsFormsApp1\bin\Debug\VISUALIZAR-BIBLIOTECA.dll.config
+C:\Users\lvasq\OneDrive - Universidad Privada del Norte\Fundamentos\EL TRABAJO FINAL TODO JUNTO\EL TRABAJO FINAL TODO JUNTO\EL TRABAJO FINAL TODO JUNTO\FRONT TRABAJOA FINAL\WindowsFormsApp1\bin\Debug\VISUALIZAR-BIBLIOTECA.exe.config
+C:\Users\lvasq\OneDrive - Universidad Privada del Norte\Fundamentos\EL TRABAJO FINAL TODO JUNTO\EL TRABAJO FINAL TODO JUNTO\EL TRABAJO FINAL TODO JUNTO\FRONT TRABAJOA FINAL\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\lvasq\OneDrive - Universidad Privada del Norte\Fundamentos\EL TRABAJO FINAL TODO JUNTO\EL TRABAJO FINAL TODO JUNTO\EL TRABAJO FINAL TODO JUNTO\FRONT TRABAJOA FINAL\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\lvasq\OneDrive - Universidad Privada del Norte\Fundamentos\EL TRABAJO FINAL TODO JUNTO\EL TRABAJO FINAL TODO JUNTO\EL TRABAJO FINAL TODO JUNTO\FRONT TRABAJOA FINAL\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\lvasq\OneDrive - Universidad Privada del Norte\Fundamentos\EL TRABAJO FINAL TODO JUNTO\EL TRABAJO FINAL TODO JUNTO\EL TRABAJO FINAL TODO JUNTO\FRONT TRABAJOA FINAL\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\lvasq\OneDrive - Universidad Privada del Norte\Fundamentos\EL TRABAJO FINAL TODO JUNTO\EL TRABAJO FINAL TODO JUNTO\EL TRABAJO FINAL TODO JUNTO\FRONT TRABAJOA FINAL\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\lvasq\OneDrive - Universidad Privada del Norte\Fundamentos\EL TRABAJO FINAL TODO JUNTO\EL TRABAJO FINAL TODO JUNTO\EL TRABAJO FINAL TODO JUNTO\FRONT TRABAJOA FINAL\WindowsFormsApp1\obj\Debug\WindowsF.A1EEDF9B.Up2Date
+C:\Users\lvasq\OneDrive - Universidad Privada del Norte\Fundamentos\EL TRABAJO FINAL TODO JUNTO\EL TRABAJO FINAL TODO JUNTO\EL TRABAJO FINAL TODO JUNTO\FRONT TRABAJOA FINAL\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\lvasq\OneDrive - Universidad Privada del Norte\Fundamentos\EL TRABAJO FINAL TODO JUNTO\EL TRABAJO FINAL TODO JUNTO\EL TRABAJO FINAL TODO JUNTO\FRONT TRABAJOA FINAL\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\lvasq\OneDrive - Universidad Privada del Norte\Fundamentos\EL TRABAJO FINAL TODO JUNTO\EL TRABAJO FINAL TODO JUNTO\EL TRABAJO FINAL TODO JUNTO\FRONT TRABAJOA FINAL\WindowsFormsApp1\bin\Debug\ALERTAS.dll
+C:\Users\lvasq\OneDrive - Universidad Privada del Norte\Fundamentos\EL TRABAJO FINAL TODO JUNTO\EL TRABAJO FINAL TODO JUNTO\EL TRABAJO FINAL TODO JUNTO\FRONT TRABAJOA FINAL\WindowsFormsApp1\bin\Debug\ALERTAS.pdb
+C:\Users\lvasq\OneDrive - Universidad Privada del Norte\Fundamentos\EL TRABAJO FINAL TODO JUNTO\EL TRABAJO FINAL TODO JUNTO\EL TRABAJO FINAL TODO JUNTO\FRONT TRABAJOA FINAL\WindowsFormsApp1\bin\Debug\ALERTAS.dll.config
+C:\Users\USER\Desktop\EL TRABAJO FINAL TODO JUNTO\EL TRABAJO FINAL TODO JUNTO\FRONT TRABAJOA FINAL\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\USER\Desktop\EL TRABAJO FINAL TODO JUNTO\EL TRABAJO FINAL TODO JUNTO\FRONT TRABAJOA FINAL\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\USER\Desktop\EL TRABAJO FINAL TODO JUNTO\EL TRABAJO FINAL TODO JUNTO\FRONT TRABAJOA FINAL\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\USER\Desktop\EL TRABAJO FINAL TODO JUNTO\EL TRABAJO FINAL TODO JUNTO\FRONT TRABAJOA FINAL\WindowsFormsApp1\bin\Debug\ALERTAS.dll
+C:\Users\USER\Desktop\EL TRABAJO FINAL TODO JUNTO\EL TRABAJO FINAL TODO JUNTO\FRONT TRABAJOA FINAL\WindowsFormsApp1\bin\Debug\ELIMINAR_PRODUCTO.dll
+C:\Users\USER\Desktop\EL TRABAJO FINAL TODO JUNTO\EL TRABAJO FINAL TODO JUNTO\FRONT TRABAJOA FINAL\WindowsFormsApp1\bin\Debug\Frm_EditarProductos.dll
+C:\Users\USER\Desktop\EL TRABAJO FINAL TODO JUNTO\EL TRABAJO FINAL TODO JUNTO\FRONT TRABAJOA FINAL\WindowsFormsApp1\bin\Debug\VISUALIZAR-BIBLIOTECA.dll
+C:\Users\USER\Desktop\EL TRABAJO FINAL TODO JUNTO\EL TRABAJO FINAL TODO JUNTO\FRONT TRABAJOA FINAL\WindowsFormsApp1\bin\Debug\ALERTAS.pdb
+C:\Users\USER\Desktop\EL TRABAJO FINAL TODO JUNTO\EL TRABAJO FINAL TODO JUNTO\FRONT TRABAJOA FINAL\WindowsFormsApp1\bin\Debug\ALERTAS.dll.config
+C:\Users\USER\Desktop\EL TRABAJO FINAL TODO JUNTO\EL TRABAJO FINAL TODO JUNTO\FRONT TRABAJOA FINAL\WindowsFormsApp1\bin\Debug\ELIMINAR_PRODUCTO.pdb
+C:\Users\USER\Desktop\EL TRABAJO FINAL TODO JUNTO\EL TRABAJO FINAL TODO JUNTO\FRONT TRABAJOA FINAL\WindowsFormsApp1\bin\Debug\ELIMINAR_PRODUCTO.dll.config
+C:\Users\USER\Desktop\EL TRABAJO FINAL TODO JUNTO\EL TRABAJO FINAL TODO JUNTO\FRONT TRABAJOA FINAL\WindowsFormsApp1\bin\Debug\Frm_EditarProductos.pdb
+C:\Users\USER\Desktop\EL TRABAJO FINAL TODO JUNTO\EL TRABAJO FINAL TODO JUNTO\FRONT TRABAJOA FINAL\WindowsFormsApp1\bin\Debug\Frm_EditarProductos.dll.config
+C:\Users\USER\Desktop\EL TRABAJO FINAL TODO JUNTO\EL TRABAJO FINAL TODO JUNTO\FRONT TRABAJOA FINAL\WindowsFormsApp1\bin\Debug\VISUALIZAR-BIBLIOTECA.pdb
+C:\Users\USER\Desktop\EL TRABAJO FINAL TODO JUNTO\EL TRABAJO FINAL TODO JUNTO\FRONT TRABAJOA FINAL\WindowsFormsApp1\bin\Debug\VISUALIZAR-BIBLIOTECA.dll.config
+C:\Users\USER\Desktop\EL TRABAJO FINAL TODO JUNTO\EL TRABAJO FINAL TODO JUNTO\FRONT TRABAJOA FINAL\WindowsFormsApp1\bin\Debug\VISUALIZAR-BIBLIOTECA.exe.config
+C:\Users\USER\Desktop\EL TRABAJO FINAL TODO JUNTO\EL TRABAJO FINAL TODO JUNTO\FRONT TRABAJOA FINAL\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\EL TRABAJO FINAL TODO JUNTO\EL TRABAJO FINAL TODO JUNTO\FRONT TRABAJOA FINAL\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.config
+C:\Users\USER\Desktop\EL TRABAJO FINAL TODO JUNTO\EL TRABAJO FINAL TODO JUNTO\FRONT TRABAJOA FINAL\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\USER\Desktop\EL TRABAJO FINAL TODO JUNTO\EL TRABAJO FINAL TODO JUNTO\FRONT TRABAJOA FINAL\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\USER\Desktop\EL TRABAJO FINAL TODO JUNTO\EL TRABAJO FINAL TODO JUNTO\FRONT TRABAJOA FINAL\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\EL TRABAJO FINAL TODO JUNTO\EL TRABAJO FINAL TODO JUNTO\FRONT TRABAJOA FINAL\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\EL TRABAJO FINAL TODO JUNTO\EL TRABAJO FINAL TODO JUNTO\FRONT TRABAJOA FINAL\WindowsFormsApp1\obj\Debug\WindowsF.A1EEDF9B.Up2Date
+C:\Users\USER\Desktop\EL TRABAJO FINAL TODO JUNTO\EL TRABAJO FINAL TODO JUNTO\FRONT TRABAJOA FINAL\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\USER\Desktop\EL TRABAJO FINAL TODO JUNTO\EL TRABAJO FINAL TODO JUNTO\FRONT TRABAJOA FINAL\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\USER\Desktop\EL TRABAJO FINAL TODO JUNTO\EL TRABAJO FINAL TODO JUNTO\FRONT TRABAJOA FINAL\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.manifest
+C:\Users\USER\Desktop\EL TRABAJO FINAL TODO JUNTO\EL TRABAJO FINAL TODO JUNTO\FRONT TRABAJOA FINAL\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.application
+C:\Users\USER\Desktop\EL TRABAJO FINAL TODO JUNTO\EL TRABAJO FINAL TODO JUNTO\FRONT TRABAJOA FINAL\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.manifest
+C:\Users\USER\Desktop\EL TRABAJO FINAL TODO JUNTO\EL TRABAJO FINAL TODO JUNTO\FRONT TRABAJOA FINAL\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.application

@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\Desktop\\EL TRABAJO FINAL TODO JUNTO\\EL TRABAJO FINAL TODO JUNTO\\Visualizar\\VISUALIZAR-BIBLIOTECA\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{19B7E6B1-DEB0-4122-9DC0-F20942A6BF13}|VISUALIZAR-BIBLIOTECA.csproj|c:\\users\\user\\desktop\\el trabajo final todo junto\\el trabajo final todo junto\\visualizar\\visualizar-biblioteca\\visualizar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19B7E6B1-DEB0-4122-9DC0-F20942A6BF13}|VISUALIZAR-BIBLIOTECA.csproj|solutionrelative:visualizar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19B7E6B1-DEB0-4122-9DC0-F20942A6BF13}|VISUALIZAR-BIBLIOTECA.csproj|C:\\Users\\USER\\Desktop\\EL TRABAJO FINAL TODO JUNTO\\EL TRABAJO FINAL TODO JUNTO\\Visualizar\\VISUALIZAR-BIBLIOTECA\\visualizar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{19B7E6B1-DEB0-4122-9DC0-F20942A6BF13}|VISUALIZAR-BIBLIOTECA.csproj|solutionrelative:visualizar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|VISUALIZAR-BIBLIOTECA||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19B7E6B1-DEB0-4122-9DC0-F20942A6BF13}|VISUALIZAR-BIBLIOTECA.csproj|c:\\users\\user\\desktop\\el trabajo final todo junto\\el trabajo final todo junto\\visualizar\\visualizar-biblioteca\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VISUALIZAR-BIBLIOTECA",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\EL TRABAJO FINAL TODO JUNTO\\EL TRABAJO FINAL TODO JUNTO\\Visualizar\\VISUALIZAR-BIBLIOTECA\\VISUALIZAR-BIBLIOTECA.csproj",
+              "RelativeDocumentMoniker": "VISUALIZAR-BIBLIOTECA.csproj",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\EL TRABAJO FINAL TODO JUNTO\\EL TRABAJO FINAL TODO JUNTO\\Visualizar\\VISUALIZAR-BIBLIOTECA\\VISUALIZAR-BIBLIOTECA.csproj",
+              "RelativeToolTip": "VISUALIZAR-BIBLIOTECA.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-06-12T23:45:53.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Visualizar.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\EL TRABAJO FINAL TODO JUNTO\\EL TRABAJO FINAL TODO JUNTO\\Visualizar\\VISUALIZAR-BIBLIOTECA\\Visualizar.cs",
+              "RelativeDocumentMoniker": "Visualizar.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\EL TRABAJO FINAL TODO JUNTO\\EL TRABAJO FINAL TODO JUNTO\\Visualizar\\VISUALIZAR-BIBLIOTECA\\Visualizar.cs",
+              "RelativeToolTip": "Visualizar.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAAABsAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-12T23:00:17.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Visualizar.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\EL TRABAJO FINAL TODO JUNTO\\EL TRABAJO FINAL TODO JUNTO\\Visualizar\\VISUALIZAR-BIBLIOTECA\\Visualizar.cs",
+              "RelativeDocumentMoniker": "Visualizar.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\EL TRABAJO FINAL TODO JUNTO\\EL TRABAJO FINAL TODO JUNTO\\Visualizar\\VISUALIZAR-BIBLIOTECA\\Visualizar.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Visualizar.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-12T22:58:08.34Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

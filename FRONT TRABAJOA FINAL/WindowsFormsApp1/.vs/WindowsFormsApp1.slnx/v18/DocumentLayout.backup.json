@@ -1,0 +1,66 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lvasq\\OneDrive - Universidad Privada del Norte\\Fundamentos\\EL TRABAJO FINAL TODO JUNTO\\EL TRABAJO FINAL TODO JUNTO\\EL TRABAJO FINAL TODO JUNTO\\FRONT TRABAJOA FINAL\\WindowsFormsApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8B46B3F8-E742-4921-8132-7AEA2467D29E}|WindowsFormsApp1.csproj|c:\\users\\lvasq\\onedrive - universidad privada del norte\\fundamentos\\el trabajo final todo junto\\el trabajo final todo junto\\el trabajo final todo junto\\front trabajoa final\\windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B46B3F8-E742-4921-8132-7AEA2467D29E}|WindowsFormsApp1.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B46B3F8-E742-4921-8132-7AEA2467D29E}|WindowsFormsApp1.csproj|C:\\Users\\lvasq\\OneDrive - Universidad Privada del Norte\\Fundamentos\\EL TRABAJO FINAL TODO JUNTO\\EL TRABAJO FINAL TODO JUNTO\\EL TRABAJO FINAL TODO JUNTO\\FRONT TRABAJOA FINAL\\WindowsFormsApp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8B46B3F8-E742-4921-8132-7AEA2467D29E}|WindowsFormsApp1.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|ALERTAS||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ALERTAS",
+              "DocumentMoniker": "C:\\Users\\lvasq\\OneDrive - Universidad Privada del Norte\\Fundamentos\\EL TRABAJO FINAL TODO JUNTO\\EL TRABAJO FINAL TODO JUNTO\\EL TRABAJO FINAL TODO JUNTO\\ALERTAS\\ALERTAS.csproj",
+              "RelativeDocumentMoniker": "..\\..\\ALERTAS\\ALERTAS.csproj",
+              "ToolTip": "C:\\Users\\lvasq\\OneDrive - Universidad Privada del Norte\\Fundamentos\\EL TRABAJO FINAL TODO JUNTO\\EL TRABAJO FINAL TODO JUNTO\\EL TRABAJO FINAL TODO JUNTO\\ALERTAS\\ALERTAS.csproj",
+              "RelativeToolTip": "..\\..\\ALERTAS\\ALERTAS.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-06-13T23:06:34.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\lvasq\\OneDrive - Universidad Privada del Norte\\Fundamentos\\EL TRABAJO FINAL TODO JUNTO\\EL TRABAJO FINAL TODO JUNTO\\EL TRABAJO FINAL TODO JUNTO\\FRONT TRABAJOA FINAL\\WindowsFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\lvasq\\OneDrive - Universidad Privada del Norte\\Fundamentos\\EL TRABAJO FINAL TODO JUNTO\\EL TRABAJO FINAL TODO JUNTO\\EL TRABAJO FINAL TODO JUNTO\\FRONT TRABAJOA FINAL\\WindowsFormsApp1\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-13T04:30:16.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\lvasq\\OneDrive - Universidad Privada del Norte\\Fundamentos\\EL TRABAJO FINAL TODO JUNTO\\EL TRABAJO FINAL TODO JUNTO\\EL TRABAJO FINAL TODO JUNTO\\FRONT TRABAJOA FINAL\\WindowsFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\lvasq\\OneDrive - Universidad Privada del Norte\\Fundamentos\\EL TRABAJO FINAL TODO JUNTO\\EL TRABAJO FINAL TODO JUNTO\\EL TRABAJO FINAL TODO JUNTO\\FRONT TRABAJOA FINAL\\WindowsFormsApp1\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-13T04:29:15.452Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
