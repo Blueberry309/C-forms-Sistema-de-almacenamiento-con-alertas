@@ -1,0 +1,140 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\Desktop\\EL TRABAJO FINAL TODO JUNTO\\EL TRABAJO FINAL TODO JUNTO\\REGISTRAR\\Proyecto_Final\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7B2C3E88-39CF-4774-BF9B-E515C737A217}|Proyecto_Final.csproj|C:\\Users\\USER\\Desktop\\EL TRABAJO FINAL TODO JUNTO\\EL TRABAJO FINAL TODO JUNTO\\REGISTRAR\\Proyecto_Final\\frmregistroproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7B2C3E88-39CF-4774-BF9B-E515C737A217}|Proyecto_Final.csproj|solutionrelative:frmregistroproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B2C3E88-39CF-4774-BF9B-E515C737A217}|Proyecto_Final.csproj|C:\\Users\\USER\\Desktop\\EL TRABAJO FINAL TODO JUNTO\\EL TRABAJO FINAL TODO JUNTO\\REGISTRAR\\Proyecto_Final\\frmregistroproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B2C3E88-39CF-4774-BF9B-E515C737A217}|Proyecto_Final.csproj|solutionrelative:frmregistroproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B2C3E88-39CF-4774-BF9B-E515C737A217}|Proyecto_Final.csproj|C:\\Users\\USER\\Desktop\\EL TRABAJO FINAL TODO JUNTO\\EL TRABAJO FINAL TODO JUNTO\\REGISTRAR\\Proyecto_Final\\gestionarchivo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B2C3E88-39CF-4774-BF9B-E515C737A217}|Proyecto_Final.csproj|solutionrelative:gestionarchivo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B2C3E88-39CF-4774-BF9B-E515C737A217}|Proyecto_Final.csproj|C:\\Users\\USER\\Desktop\\EL TRABAJO FINAL TODO JUNTO\\EL TRABAJO FINAL TODO JUNTO\\REGISTRAR\\Proyecto_Final\\validacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B2C3E88-39CF-4774-BF9B-E515C737A217}|Proyecto_Final.csproj|solutionrelative:validacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B2C3E88-39CF-4774-BF9B-E515C737A217}|Proyecto_Final.csproj|c:\\users\\user\\desktop\\el trabajo final todo junto\\el trabajo final todo junto\\registrar\\proyecto_final\\frmgestionclasificaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7B2C3E88-39CF-4774-BF9B-E515C737A217}|Proyecto_Final.csproj|solutionrelative:frmgestionclasificaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B2C3E88-39CF-4774-BF9B-E515C737A217}|Proyecto_Final.csproj|C:\\Users\\USER\\Desktop\\EL TRABAJO FINAL TODO JUNTO\\EL TRABAJO FINAL TODO JUNTO\\REGISTRAR\\Proyecto_Final\\frmgestionclasificaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B2C3E88-39CF-4774-BF9B-E515C737A217}|Proyecto_Final.csproj|solutionrelative:frmgestionclasificaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B2C3E88-39CF-4774-BF9B-E515C737A217}|Proyecto_Final.csproj|C:\\Users\\USER\\Desktop\\EL TRABAJO FINAL TODO JUNTO\\EL TRABAJO FINAL TODO JUNTO\\REGISTRAR\\Proyecto_Final\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B2C3E88-39CF-4774-BF9B-E515C737A217}|Proyecto_Final.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\EL TRABAJO FINAL TODO JUNTO\\EL TRABAJO FINAL TODO JUNTO\\REGISTRAR\\Proyecto_Final\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\EL TRABAJO FINAL TODO JUNTO\\EL TRABAJO FINAL TODO JUNTO\\REGISTRAR\\Proyecto_Final\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-12T21:53:56.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GestionArchivo.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\EL TRABAJO FINAL TODO JUNTO\\EL TRABAJO FINAL TODO JUNTO\\REGISTRAR\\Proyecto_Final\\GestionArchivo.cs",
+              "RelativeDocumentMoniker": "GestionArchivo.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\EL TRABAJO FINAL TODO JUNTO\\EL TRABAJO FINAL TODO JUNTO\\REGISTRAR\\Proyecto_Final\\GestionArchivo.cs",
+              "RelativeToolTip": "GestionArchivo.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T23:47:03.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Validacion.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\EL TRABAJO FINAL TODO JUNTO\\EL TRABAJO FINAL TODO JUNTO\\REGISTRAR\\Proyecto_Final\\Validacion.cs",
+              "RelativeDocumentMoniker": "Validacion.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\EL TRABAJO FINAL TODO JUNTO\\EL TRABAJO FINAL TODO JUNTO\\REGISTRAR\\Proyecto_Final\\Validacion.cs",
+              "RelativeToolTip": "Validacion.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAuwDcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T22:27:36.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmGestionClasificaciones.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\EL TRABAJO FINAL TODO JUNTO\\EL TRABAJO FINAL TODO JUNTO\\REGISTRAR\\Proyecto_Final\\FrmGestionClasificaciones.cs",
+              "RelativeDocumentMoniker": "FrmGestionClasificaciones.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\EL TRABAJO FINAL TODO JUNTO\\EL TRABAJO FINAL TODO JUNTO\\REGISTRAR\\Proyecto_Final\\FrmGestionClasificaciones.cs",
+              "RelativeToolTip": "FrmGestionClasificaciones.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAwwDYAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T08:49:15.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmRegistroProducto.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\EL TRABAJO FINAL TODO JUNTO\\EL TRABAJO FINAL TODO JUNTO\\REGISTRAR\\Proyecto_Final\\FrmRegistroProducto.cs",
+              "RelativeDocumentMoniker": "FrmRegistroProducto.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\EL TRABAJO FINAL TODO JUNTO\\EL TRABAJO FINAL TODO JUNTO\\REGISTRAR\\Proyecto_Final\\FrmRegistroProducto.cs*",
+              "RelativeToolTip": "FrmRegistroProducto.cs*",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAqwI8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T07:15:58.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmGestionClasificaciones.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\EL TRABAJO FINAL TODO JUNTO\\EL TRABAJO FINAL TODO JUNTO\\REGISTRAR\\Proyecto_Final\\FrmGestionClasificaciones.cs",
+              "RelativeDocumentMoniker": "FrmGestionClasificaciones.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\EL TRABAJO FINAL TODO JUNTO\\EL TRABAJO FINAL TODO JUNTO\\REGISTRAR\\Proyecto_Final\\FrmGestionClasificaciones.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FrmGestionClasificaciones.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T08:33:42.018Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmRegistroProducto.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\EL TRABAJO FINAL TODO JUNTO\\EL TRABAJO FINAL TODO JUNTO\\REGISTRAR\\Proyecto_Final\\FrmRegistroProducto.cs",
+              "RelativeDocumentMoniker": "FrmRegistroProducto.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\EL TRABAJO FINAL TODO JUNTO\\EL TRABAJO FINAL TODO JUNTO\\REGISTRAR\\Proyecto_Final\\FrmRegistroProducto.cs [Dise\u00F1o]*",
+              "RelativeToolTip": "FrmRegistroProducto.cs [Dise\u00F1o]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T00:30:31.52Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

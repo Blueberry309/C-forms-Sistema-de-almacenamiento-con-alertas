@@ -1,0 +1,56 @@
+C:\Users\USER\Downloads\Trabajo_final\Proyecto_Final\bin\Debug\Proyecto_Final.exe.config
+C:\Users\USER\Downloads\Trabajo_final\Proyecto_Final\bin\Debug\Proyecto_Final.exe
+C:\Users\USER\Downloads\Trabajo_final\Proyecto_Final\bin\Debug\Proyecto_Final.pdb
+C:\Users\USER\Downloads\Trabajo_final\Proyecto_Final\obj\Debug\Proyecto_Final.csproj.AssemblyReference.cache
+C:\Users\USER\Downloads\Trabajo_final\Proyecto_Final\obj\Debug\Proyecto_Final.Properties.Resources.resources
+C:\Users\USER\Downloads\Trabajo_final\Proyecto_Final\obj\Debug\Proyecto_Final.csproj.GenerateResource.cache
+C:\Users\USER\Downloads\Trabajo_final\Proyecto_Final\obj\Debug\Proyecto_Final.csproj.CoreCompileInputs.cache
+C:\Users\USER\Downloads\Trabajo_final\Proyecto_Final\obj\Debug\Proyecto_Final.exe
+C:\Users\USER\Downloads\Trabajo_final\Proyecto_Final\obj\Debug\Proyecto_Final.pdb
+C:\Users\USER\Downloads\Trabajo_final\Proyecto_Final\obj\Debug\Proyecto_Final.exe.config
+C:\Users\USER\Downloads\Trabajo_final\Proyecto_Final\obj\Debug\Proyecto_Final.FrmRegistroProducto.resources
+C:\Users\USER\Downloads\Trabajo_final\Proyecto_Final\obj\Debug\Proyecto_Final.FrmGestionClasificaciones.resources
+C:\Users\Mathia\Desktop\Trabajo_final\Proyecto_Final\bin\Debug\Proyecto_Final.dll.config
+C:\Users\Mathia\Desktop\Trabajo_final\Proyecto_Final\bin\Debug\Proyecto_Final.dll
+C:\Users\Mathia\Desktop\Trabajo_final\Proyecto_Final\bin\Debug\Proyecto_Final.pdb
+C:\Users\Mathia\Desktop\Trabajo_final\Proyecto_Final\obj\Debug\Proyecto_Final.csproj.AssemblyReference.cache
+C:\Users\Mathia\Desktop\Trabajo_final\Proyecto_Final\obj\Debug\Proyecto_Final.FrmGestionClasificaciones.resources
+C:\Users\Mathia\Desktop\Trabajo_final\Proyecto_Final\obj\Debug\Proyecto_Final.FrmRegistroProducto.resources
+C:\Users\Mathia\Desktop\Trabajo_final\Proyecto_Final\obj\Debug\Proyecto_Final.Properties.Resources.resources
+C:\Users\Mathia\Desktop\Trabajo_final\Proyecto_Final\obj\Debug\Proyecto_Final.csproj.GenerateResource.cache
+C:\Users\Mathia\Desktop\Trabajo_final\Proyecto_Final\obj\Debug\Proyecto_Final.csproj.CoreCompileInputs.cache
+C:\Users\Mathia\Desktop\Trabajo_final\Proyecto_Final\obj\Debug\Proyecto_Final.dll
+C:\Users\Mathia\Desktop\Trabajo_final\Proyecto_Final\obj\Debug\Proyecto_Final.pdb
+C:\Users\USER\Downloads\EL TRABAJO FINAL TODO JUNTO\EL TRABAJO FINAL TODO JUNTO\Trabajo_final\Proyecto_Final\bin\Debug\Proyecto_Final.dll.config
+C:\Users\USER\Downloads\EL TRABAJO FINAL TODO JUNTO\EL TRABAJO FINAL TODO JUNTO\Trabajo_final\Proyecto_Final\bin\Debug\Proyecto_Final.dll
+C:\Users\USER\Downloads\EL TRABAJO FINAL TODO JUNTO\EL TRABAJO FINAL TODO JUNTO\Trabajo_final\Proyecto_Final\bin\Debug\Proyecto_Final.pdb
+C:\Users\USER\Downloads\EL TRABAJO FINAL TODO JUNTO\EL TRABAJO FINAL TODO JUNTO\Trabajo_final\Proyecto_Final\obj\Debug\Proyecto_Final.csproj.AssemblyReference.cache
+C:\Users\USER\Downloads\EL TRABAJO FINAL TODO JUNTO\EL TRABAJO FINAL TODO JUNTO\Trabajo_final\Proyecto_Final\obj\Debug\Proyecto_Final.FrmGestionClasificaciones.resources
+C:\Users\USER\Downloads\EL TRABAJO FINAL TODO JUNTO\EL TRABAJO FINAL TODO JUNTO\Trabajo_final\Proyecto_Final\obj\Debug\Proyecto_Final.FrmRegistroProducto.resources
+C:\Users\USER\Downloads\EL TRABAJO FINAL TODO JUNTO\EL TRABAJO FINAL TODO JUNTO\Trabajo_final\Proyecto_Final\obj\Debug\Proyecto_Final.Properties.Resources.resources
+C:\Users\USER\Downloads\EL TRABAJO FINAL TODO JUNTO\EL TRABAJO FINAL TODO JUNTO\Trabajo_final\Proyecto_Final\obj\Debug\Proyecto_Final.csproj.GenerateResource.cache
+C:\Users\USER\Downloads\EL TRABAJO FINAL TODO JUNTO\EL TRABAJO FINAL TODO JUNTO\Trabajo_final\Proyecto_Final\obj\Debug\Proyecto_Final.csproj.CoreCompileInputs.cache
+C:\Users\USER\Downloads\EL TRABAJO FINAL TODO JUNTO\EL TRABAJO FINAL TODO JUNTO\Trabajo_final\Proyecto_Final\obj\Debug\Proyecto_Final.dll
+C:\Users\USER\Downloads\EL TRABAJO FINAL TODO JUNTO\EL TRABAJO FINAL TODO JUNTO\Trabajo_final\Proyecto_Final\obj\Debug\Proyecto_Final.pdb
+C:\Users\lvasq\OneDrive - Universidad Privada del Norte\Fundamentos\EL TRABAJO FINAL TODO JUNTO\EL TRABAJO FINAL TODO JUNTO\EL TRABAJO FINAL TODO JUNTO\REGISTRAR\Proyecto_Final\bin\Debug\Proyecto_Final.dll.config
+C:\Users\lvasq\OneDrive - Universidad Privada del Norte\Fundamentos\EL TRABAJO FINAL TODO JUNTO\EL TRABAJO FINAL TODO JUNTO\EL TRABAJO FINAL TODO JUNTO\REGISTRAR\Proyecto_Final\bin\Debug\Proyecto_Final.dll
+C:\Users\lvasq\OneDrive - Universidad Privada del Norte\Fundamentos\EL TRABAJO FINAL TODO JUNTO\EL TRABAJO FINAL TODO JUNTO\EL TRABAJO FINAL TODO JUNTO\REGISTRAR\Proyecto_Final\bin\Debug\Proyecto_Final.pdb
+C:\Users\lvasq\OneDrive - Universidad Privada del Norte\Fundamentos\EL TRABAJO FINAL TODO JUNTO\EL TRABAJO FINAL TODO JUNTO\EL TRABAJO FINAL TODO JUNTO\REGISTRAR\Proyecto_Final\obj\Debug\Proyecto_Final.csproj.AssemblyReference.cache
+C:\Users\lvasq\OneDrive - Universidad Privada del Norte\Fundamentos\EL TRABAJO FINAL TODO JUNTO\EL TRABAJO FINAL TODO JUNTO\EL TRABAJO FINAL TODO JUNTO\REGISTRAR\Proyecto_Final\obj\Debug\Proyecto_Final.FrmGestionClasificaciones.resources
+C:\Users\lvasq\OneDrive - Universidad Privada del Norte\Fundamentos\EL TRABAJO FINAL TODO JUNTO\EL TRABAJO FINAL TODO JUNTO\EL TRABAJO FINAL TODO JUNTO\REGISTRAR\Proyecto_Final\obj\Debug\Proyecto_Final.FrmRegistroProducto.resources
+C:\Users\lvasq\OneDrive - Universidad Privada del Norte\Fundamentos\EL TRABAJO FINAL TODO JUNTO\EL TRABAJO FINAL TODO JUNTO\EL TRABAJO FINAL TODO JUNTO\REGISTRAR\Proyecto_Final\obj\Debug\Proyecto_Final.Properties.Resources.resources
+C:\Users\lvasq\OneDrive - Universidad Privada del Norte\Fundamentos\EL TRABAJO FINAL TODO JUNTO\EL TRABAJO FINAL TODO JUNTO\EL TRABAJO FINAL TODO JUNTO\REGISTRAR\Proyecto_Final\obj\Debug\Proyecto_Final.csproj.GenerateResource.cache
+C:\Users\lvasq\OneDrive - Universidad Privada del Norte\Fundamentos\EL TRABAJO FINAL TODO JUNTO\EL TRABAJO FINAL TODO JUNTO\EL TRABAJO FINAL TODO JUNTO\REGISTRAR\Proyecto_Final\obj\Debug\Proyecto_Final.csproj.CoreCompileInputs.cache
+C:\Users\lvasq\OneDrive - Universidad Privada del Norte\Fundamentos\EL TRABAJO FINAL TODO JUNTO\EL TRABAJO FINAL TODO JUNTO\EL TRABAJO FINAL TODO JUNTO\REGISTRAR\Proyecto_Final\obj\Debug\Proyecto_Final.dll
+C:\Users\lvasq\OneDrive - Universidad Privada del Norte\Fundamentos\EL TRABAJO FINAL TODO JUNTO\EL TRABAJO FINAL TODO JUNTO\EL TRABAJO FINAL TODO JUNTO\REGISTRAR\Proyecto_Final\obj\Debug\Proyecto_Final.pdb
+C:\Users\USER\Desktop\EL TRABAJO FINAL TODO JUNTO\EL TRABAJO FINAL TODO JUNTO\REGISTRAR\Proyecto_Final\bin\Debug\Proyecto_Final.dll.config
+C:\Users\USER\Desktop\EL TRABAJO FINAL TODO JUNTO\EL TRABAJO FINAL TODO JUNTO\REGISTRAR\Proyecto_Final\bin\Debug\Proyecto_Final.dll
+C:\Users\USER\Desktop\EL TRABAJO FINAL TODO JUNTO\EL TRABAJO FINAL TODO JUNTO\REGISTRAR\Proyecto_Final\bin\Debug\Proyecto_Final.pdb
+C:\Users\USER\Desktop\EL TRABAJO FINAL TODO JUNTO\EL TRABAJO FINAL TODO JUNTO\REGISTRAR\Proyecto_Final\obj\Debug\Proyecto_Final.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\EL TRABAJO FINAL TODO JUNTO\EL TRABAJO FINAL TODO JUNTO\REGISTRAR\Proyecto_Final\obj\Debug\Proyecto_Final.FrmGestionClasificaciones.resources
+C:\Users\USER\Desktop\EL TRABAJO FINAL TODO JUNTO\EL TRABAJO FINAL TODO JUNTO\REGISTRAR\Proyecto_Final\obj\Debug\Proyecto_Final.FrmRegistroProducto.resources
+C:\Users\USER\Desktop\EL TRABAJO FINAL TODO JUNTO\EL TRABAJO FINAL TODO JUNTO\REGISTRAR\Proyecto_Final\obj\Debug\Proyecto_Final.Properties.Resources.resources
+C:\Users\USER\Desktop\EL TRABAJO FINAL TODO JUNTO\EL TRABAJO FINAL TODO JUNTO\REGISTRAR\Proyecto_Final\obj\Debug\Proyecto_Final.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\EL TRABAJO FINAL TODO JUNTO\EL TRABAJO FINAL TODO JUNTO\REGISTRAR\Proyecto_Final\obj\Debug\Proyecto_Final.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\EL TRABAJO FINAL TODO JUNTO\EL TRABAJO FINAL TODO JUNTO\REGISTRAR\Proyecto_Final\obj\Debug\Proyecto_Final.dll
+C:\Users\USER\Desktop\EL TRABAJO FINAL TODO JUNTO\EL TRABAJO FINAL TODO JUNTO\REGISTRAR\Proyecto_Final\obj\Debug\Proyecto_Final.pdb

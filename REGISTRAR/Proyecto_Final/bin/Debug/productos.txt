@@ -1,0 +1,5 @@
+001|Mouse Inalambrico|TECNOLOGIA|Óptimo|0.5|15.99|50|10/06/2026|10/06/2096
+002|Leche Sin lactosa - 600 ml Lata|LACTEOS|Óptimo|5|15|80|10/06/2026|10/08/2026
+003|Galleta oreo taco|GALLETAS|Óptimo|5|50|6|10/06/2026|18/12/2026
+004|Doritos personales|SNAKS|Óptimo|0.5|2.5|40|10/06/2026|27/10/2028
+005|Leche Chocolatada 1L|LACTEOS|Óptimo|2|10|50|10/06/2026|20/07/2028
